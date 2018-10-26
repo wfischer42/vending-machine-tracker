@@ -39,7 +39,8 @@ I also see an average price for all of the snacks in that machine
 ```
 
 ### Example
-```Don's Mixed Drinks
+```
+Don's Mixed Drinks
 Snacks
 * White Castle Burger: $3.50
 * Pop Rocks: $1.50
